@@ -5928,24 +5928,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Reda\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Tecnico Solaris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\PayStationSW.csproj",
+      "projectUniqueName": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\PayStationSW.csproj",
       "projectName": "PayStationSW",
-      "projectPath": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\PayStationSW.csproj",
-      "packagesPath": "C:\\Users\\Reda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\obj\\",
+      "projectPath": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\PayStationSW.csproj",
+      "packagesPath": "C:\\Users\\Tecnico Solaris\\.nuget\\packages\\",
+      "outputPath": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Reda\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Tecnico Solaris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6043,7 +6038,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore;
 using PayStationSW.RESTAPI;
 using static PayStationSW.Devices.Device;
 using System.IO.Ports;
-
+//ALBERTO 24-6-24
 namespace PayStationSW
 {
     public class PayStation
@@ -37,6 +37,7 @@ namespace PayStationSW
             Devices[DeviceEnum.RCModule] = await RCModule.CreateAsync(context);
             Devices[DeviceEnum.TwinModule] = await TwinModule.CreateAsync(context);
             Devices[DeviceEnum.Web2Park] = await Web2ParkDevice.CreateAsync(context);
+            Devices[DeviceEnum.BarCodeReader] = await BarCodeReaderDevice.CreateAsync(context);
             var status = ReconfigureDevices(context);
         }
         public async Task<string> ReconfigureDevices(ApplicationDbContext context)
@@ -80,7 +81,8 @@ namespace PayStationSW
                     {"4", DeviceEnum.Printer},
                     {"5", DeviceEnum.RCModule},
                     {"6", DeviceEnum.TwinModule},
-                    {"7", DeviceEnum.Web2Park}
+                    {"7", DeviceEnum.Web2Park},
+                    {"8", DeviceEnum.BarCodeReader}
                 };
 
                 foreach (var entry in deviceTypes)
@@ -219,7 +221,8 @@ namespace PayStationSW
         RCModule,
         TwinModule,
         IO,
-        Web2Park
+        Web2Park,
+        BarCodeReader
     }
 
     //PaymentObject da rivedere o usare direttamente MovementDB come modello

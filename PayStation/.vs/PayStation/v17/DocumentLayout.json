@@ -1,33 +1,72 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\",
+  "WorkspaceRootPath": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\paystation\\protocols\\pos\\sequenceingenico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\pos\\sequenceingenico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\protocols\\barcodereader\\commandsdataresponsebarcodereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\barcodereader\\commandsdataresponsebarcodereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\paystation\\protocols\\pos\\protocolingenico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\pos\\protocolingenico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\protocols\\barcodereader\\interfacebarcodereaderprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\barcodereader\\interfacebarcodereaderprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|c:\\users\\reda\\desktop\\desktop\\cityware\\paystation\\paystation\\paystation\\devices\\pos_dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\devices\\pos_dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\protocols\\barcodereader\\protocolbarcodereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\barcodereader\\protocolbarcodereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|c:\\users\\reda\\desktop\\desktop\\cityware\\paystation\\paystation\\paystation\\protocols\\coin\\commandsdataresponsemdb_rs323.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\coin\\commandsdataresponsemdb_rs323.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\protocols\\barcodereader\\sequencebarcodereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\barcodereader\\sequencebarcodereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|c:\\users\\reda\\desktop\\desktop\\cityware\\paystation\\paystation\\paystation\\protocols\\coin\\protocolmdb_rs323.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\coin\\protocolmdb_rs323.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\devices\\barcodereader_dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\devices\\barcodereader_dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|c:\\users\\reda\\desktop\\desktop\\cityware\\paystation\\paystation\\paystation\\protocols\\coin\\interfacecoinprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\protocols\\cash\\crc16kermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\cash\\crc16kermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\devices\\coin_dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\devices\\coin_dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\protocols\\coin\\interfacecoinprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\coin\\interfacecoinprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|c:\\users\\reda\\desktop\\desktop\\cityware\\paystation\\paystation\\paystation\\protocols\\cash\\protocolvega100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tecnico Solaris\\AppData\\Local\\Temp\\.vsdbgsrc\\5423ae6388e25ed57ab3e0a5dfef2ba49a1e147799094fb5cc47d2cc081b6f90\\HostingAbstractionsHostExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\protocols\\pos\\sequenceingenico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\pos\\sequenceingenico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\protocols\\pos\\protocolingenico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\pos\\protocolingenico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\devices\\pos_dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\devices\\pos_dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\protocols\\coin\\commandsdataresponsemdb_rs323.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\coin\\commandsdataresponsemdb_rs323.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\protocols\\coin\\protocolmdb_rs323.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\coin\\protocolmdb_rs323.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|d:\\commesse\\2024\\sw\\git\\paystation_second\\paystation\\paystation\\protocols\\cash\\protocolvega100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CE9D55F-4012-4653-9BE1-685C143F6D00}|PayStation\\PayStationSW.csproj|solutionrelative:paystation\\protocols\\cash\\protocolvega100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,98 +77,244 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CommandsDataResponseMDB_RS323.cs",
-              "DocumentMoniker": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\Coin\\CommandsDataResponseMDB_RS323.cs",
-              "RelativeDocumentMoniker": "PayStation\\Protocols\\Coin\\CommandsDataResponseMDB_RS323.cs",
-              "ToolTip": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\Coin\\CommandsDataResponseMDB_RS323.cs",
-              "RelativeToolTip": "PayStation\\Protocols\\Coin\\CommandsDataResponseMDB_RS323.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "SequenceBarCodeReader.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\BarCodeReader\\SequenceBarCodeReader.cs",
+              "RelativeDocumentMoniker": "PayStation\\Protocols\\BarCodeReader\\SequenceBarCodeReader.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\BarCodeReader\\SequenceBarCodeReader.cs",
+              "RelativeToolTip": "PayStation\\Protocols\\BarCodeReader\\SequenceBarCodeReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:38:04.866Z",
+              "WhenOpened": "2024-06-24T12:04:41.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CRC16Kermit.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\Cash\\CRC16Kermit.cs",
+              "RelativeDocumentMoniker": "PayStation\\Protocols\\Cash\\CRC16Kermit.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\Cash\\CRC16Kermit.cs",
+              "RelativeToolTip": "PayStation\\Protocols\\Cash\\CRC16Kermit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:04:16.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProtocolBarCodeReader.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\BarCodeReader\\ProtocolBarCodeReader.cs",
+              "RelativeDocumentMoniker": "PayStation\\Protocols\\BarCodeReader\\ProtocolBarCodeReader.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\BarCodeReader\\ProtocolBarCodeReader.cs",
+              "RelativeToolTip": "PayStation\\Protocols\\BarCodeReader\\ProtocolBarCodeReader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:58:27.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfaceBarCodeReaderProtocol.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\BarCodeReader\\InterfaceBarCodeReaderProtocol.cs",
+              "RelativeDocumentMoniker": "PayStation\\Protocols\\BarCodeReader\\InterfaceBarCodeReaderProtocol.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\BarCodeReader\\InterfaceBarCodeReaderProtocol.cs",
+              "RelativeToolTip": "PayStation\\Protocols\\BarCodeReader\\InterfaceBarCodeReaderProtocol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:57:05.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandsDataResponseBarCodeReader.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\BarCodeReader\\CommandsDataResponseBarCodeReader.cs",
+              "RelativeDocumentMoniker": "PayStation\\Protocols\\BarCodeReader\\CommandsDataResponseBarCodeReader.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\BarCodeReader\\CommandsDataResponseBarCodeReader.cs",
+              "RelativeToolTip": "PayStation\\Protocols\\BarCodeReader\\CommandsDataResponseBarCodeReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:56:24.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProtocolMDB_RS323.cs",
-              "DocumentMoniker": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\Coin\\ProtocolMDB_RS323.cs",
-              "RelativeDocumentMoniker": "PayStation\\Protocols\\Coin\\ProtocolMDB_RS323.cs",
-              "ToolTip": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\Coin\\ProtocolMDB_RS323.cs",
-              "RelativeToolTip": "PayStation\\Protocols\\Coin\\ProtocolMDB_RS323.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Title": "BarCodeReader_Dev.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Devices\\BarCodeReader_Dev.cs",
+              "RelativeDocumentMoniker": "PayStation\\Devices\\BarCodeReader_Dev.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Devices\\BarCodeReader_Dev.cs",
+              "RelativeToolTip": "PayStation\\Devices\\BarCodeReader_Dev.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:37:10.787Z",
+              "WhenOpened": "2024-06-24T11:48:22.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Coin_Dev.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Devices\\Coin_Dev.cs",
+              "RelativeDocumentMoniker": "PayStation\\Devices\\Coin_Dev.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Devices\\Coin_Dev.cs",
+              "RelativeToolTip": "PayStation\\Devices\\Coin_Dev.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAhwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:40:30.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Program.cs",
+              "RelativeDocumentMoniker": "PayStation\\Program.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Program.cs",
+              "RelativeToolTip": "PayStation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:55:37.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HostingAbstractionsHostExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico Solaris\\AppData\\Local\\Temp\\.vsdbgsrc\\5423ae6388e25ed57ab3e0a5dfef2ba49a1e147799094fb5cc47d2cc081b6f90\\HostingAbstractionsHostExtensions.cs",
+              "ToolTip": "C:\\Users\\Tecnico Solaris\\AppData\\Local\\Temp\\.vsdbgsrc\\5423ae6388e25ed57ab3e0a5dfef2ba49a1e147799094fb5cc47d2cc081b6f90\\HostingAbstractionsHostExtensions.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAtwCIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:55:19.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Station.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Station.cs",
+              "RelativeDocumentMoniker": "PayStation\\Station.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Station.cs",
+              "RelativeToolTip": "PayStation\\Station.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAApwFQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:36:40.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommandsDataResponseMDB_RS323.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\Coin\\CommandsDataResponseMDB_RS323.cs",
+              "RelativeDocumentMoniker": "PayStation\\Protocols\\Coin\\CommandsDataResponseMDB_RS323.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\Coin\\CommandsDataResponseMDB_RS323.cs",
+              "RelativeToolTip": "PayStation\\Protocols\\Coin\\CommandsDataResponseMDB_RS323.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:38:04.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProtocolMDB_RS323.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\Coin\\ProtocolMDB_RS323.cs",
+              "RelativeDocumentMoniker": "PayStation\\Protocols\\Coin\\ProtocolMDB_RS323.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\Coin\\ProtocolMDB_RS323.cs",
+              "RelativeToolTip": "PayStation\\Protocols\\Coin\\ProtocolMDB_RS323.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:37:10.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "InterfaceCoinProtocol.cs",
-              "DocumentMoniker": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\Coin\\InterfaceCoinProtocol.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\Coin\\InterfaceCoinProtocol.cs",
               "RelativeDocumentMoniker": "PayStation\\Protocols\\Coin\\InterfaceCoinProtocol.cs",
-              "ToolTip": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\Coin\\InterfaceCoinProtocol.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\Coin\\InterfaceCoinProtocol.cs",
               "RelativeToolTip": "PayStation\\Protocols\\Coin\\InterfaceCoinProtocol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T12:37:09.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "POS_Dev.cs",
-              "DocumentMoniker": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Devices\\POS_Dev.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Devices\\POS_Dev.cs",
               "RelativeDocumentMoniker": "PayStation\\Devices\\POS_Dev.cs",
-              "ToolTip": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Devices\\POS_Dev.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Devices\\POS_Dev.cs",
               "RelativeToolTip": "PayStation\\Devices\\POS_Dev.cs",
               "ViewState": "AQIAAFoAAAAAAAAAAAAmwGgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:33:43.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T12:33:43.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "ProtocolIngenico.cs",
-              "DocumentMoniker": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\POS\\ProtocolIngenico.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\POS\\ProtocolIngenico.cs",
               "RelativeDocumentMoniker": "PayStation\\Protocols\\POS\\ProtocolIngenico.cs",
-              "ToolTip": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\POS\\ProtocolIngenico.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\POS\\ProtocolIngenico.cs",
               "RelativeToolTip": "PayStation\\Protocols\\POS\\ProtocolIngenico.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T06:56:22.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T06:56:22.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "SequenceIngenico.cs",
-              "DocumentMoniker": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\POS\\SequenceIngenico.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\POS\\SequenceIngenico.cs",
               "RelativeDocumentMoniker": "PayStation\\Protocols\\POS\\SequenceIngenico.cs",
-              "ToolTip": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\POS\\SequenceIngenico.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\POS\\SequenceIngenico.cs",
               "RelativeToolTip": "PayStation\\Protocols\\POS\\SequenceIngenico.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowA8AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T06:56:12.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T06:56:12.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "ProtocolVega100.cs",
-              "DocumentMoniker": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\Cash\\ProtocolVega100.cs",
+              "DocumentMoniker": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\Cash\\ProtocolVega100.cs",
               "RelativeDocumentMoniker": "PayStation\\Protocols\\Cash\\ProtocolVega100.cs",
-              "ToolTip": "C:\\Users\\Reda\\Desktop\\Desktop\\Cityware\\PayStation\\PayStation\\PayStation\\Protocols\\Cash\\ProtocolVega100.cs",
+              "ToolTip": "D:\\Commesse\\2024\\SW\\Git\\PayStation_second\\PayStation\\PayStation\\Protocols\\Cash\\ProtocolVega100.cs",
               "RelativeToolTip": "PayStation\\Protocols\\Cash\\ProtocolVega100.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T08:13:24.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T08:13:24.163Z"
             }
           ]
         }
